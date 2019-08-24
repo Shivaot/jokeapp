@@ -1,1 +1,1 @@
-This is a simple Web app that shows Chuck Norris Joke
+This is a simple Web app that shows Chuck Norris Joke.
