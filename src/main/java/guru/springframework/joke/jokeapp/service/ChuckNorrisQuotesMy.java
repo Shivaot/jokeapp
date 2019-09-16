@@ -18,7 +18,7 @@ public class ChuckNorrisQuotesMy {
         this.quotes.add("Chuck Norris can install a 64 bit OS on 32 bit machines.");
         this.quotes.add("Fool me once, shame on you. Fool Chuck Norris once and he will roundhouse kick you in the face.");
         this.quotes.add("Chuck Norris compresses his files by doing a flying round house kick to the hard drive.");
-        this.quotes.add("MacGyver can build an airplane out of gum and paper clips. Chuck Norris can kill him and take it.");
+        this.quotes.add("MacGiver can build an airplane out of gum and paper clips. Chuck Norris can kill him and take it.");
         this.quotes.add("Chuck Norris played Russian Roulette with a fully loaded gun and won");
         this.quotes.add("Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.");
         this.quotes.add("Chuck Norris recently had the idea to sell his urine as a canned beverage. We know this beverage as Red Bull.");

@@ -3,11 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <title>Chuck Norris Jokes</title>
+    <link rel="stylesheet" th:href="@{assets/style.css}" href="../static/assets/style.css">
+    <script type="text/javascript" th:src="@{/assets/script.js}" src="../static/assets/script.js"></script>
 </head>
 <body>
+    <h1>Chuck Norris Joke App</h1>
+    <div class="box">
+        <a class="button" href="#popup1">Hit to Generate Joke</a>
+    </div>
 
-    <h1>Chuck Norris Joke!!</h1>
-    <p th:text="${joke}">Insert Joke Here!!!</p>
+    <div id="popup1" class="overlay">
+        <div class="popup">
+            <h2>Here is Joke for you</h2>
+            <a class="close" href="#">&times;</a>
+            <div class="content">
+                <p th:text="${joke}">joke</p><span style="font-size: 30px"> &#128514;</span>
+            </div>
+        </div>
+    </div>
 
 </body>
 </html>
